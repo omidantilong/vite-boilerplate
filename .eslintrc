@@ -32,6 +32,7 @@
       "warn",
       {
         "ignoreUrls": true,
+        "ignoreStrings": true,
         "code": 80
       }
     ],
